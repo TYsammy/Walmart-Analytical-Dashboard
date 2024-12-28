@@ -13,6 +13,7 @@ This dataset, acquired from a mentor, is organized into one sheet
 ## Tools
 
 Postgres SQL
+
 Microsoft PowerBi
 
 
@@ -46,7 +47,7 @@ ix.Product by Revenue
 
 i. Total Revenue: $323k
 
-ii.Total Tax = 15K
+ii.Total Tax : $15K
 
 iii. Revenue by Time of Day: A clear trend emerged, with Evening leading at $138k, Afternoon following at $123k, and Morning generating $62k.
 
